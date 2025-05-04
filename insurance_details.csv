@@ -1,0 +1,51 @@
+Contract ID,Premium,Profit Margin,Category,Sub-Category,PaymentMode,Reserves
+B-26000,3791,495,Annuity,Variable annuity,Credit Card,198
+B-26001,2243,347,Life Insurance,Endowment,EMI,957
+B-26002,3529,614,Annuity,Variable annuity,EMI,1041
+B-26003,1006,151,Life Insurance,Universal life,COD,-28
+B-26004,3948,373,Annuity,Fixed Index annuity,Credit Card,-275
+B-26005,1873,301,Annuity,Fixed Index annuity,Credit Card,-378
+B-26006,1076,138,Annuity,Variable annuity,EMI,-293
+B-26007,3470,233,Life Insurance,Universal life,EMI,993
+B-26008,2369,270,Annuity,Variable annuity,COD,-862
+B-26009,4273,101,Annuity,Fixed Index annuity,UPI,-33
+B-26010,5609,577,Life Insurance,Universal life,Credit Card,167
+B-26011,2299,178,Disability,LTD,EMI,1102
+B-26012,3106,619,Life Insurance,Endowment,EMI,-558
+B-26013,701,123,Disability,LTD,Credit Card,718
+B-26014,4383,296,Life Insurance,Universal life,COD,762
+B-26015,2101,116,Disability,LTC,COD,-378
+B-26016,3609,480,Disability,LTC,COD,5
+B-26017,2676,103,Life Insurance,Universal life,UPI,1051
+B-26018,1179,232,Disability,LTD,UPI,127
+B-26019,4690,932,Life Insurance,Endowment,Credit Card,1196
+B-26020,3278,587,Life Insurance,Universal life,COD,-725
+B-26021,3746,734,Annuity,Variable annuity,UPI,-731
+B-26022,4827,90,Life Insurance,Universal life,Credit Card,-355
+B-26023,616,100,Life Insurance,Endowment,EMI,932
+B-26024,2521,435,Disability,LTC,COD,373
+B-26025,2946,172,Life Insurance,Universal life,EMI,184
+B-26026,1235,156,Annuity,Variable annuity,UPI,449
+B-26027,1141,224,Life Insurance,Endowment,EMI,477
+B-26028,3725,214,Life Insurance,Endowment,Credit Card,673
+B-26029,1770,112,Annuity,Variable annuity,EMI,-293
+B-26030,1578,81,Annuity,Variable annuity,UPI,897
+B-26031,4737,671,Disability,LTC,EMI,-72
+B-26032,5614,173,Annuity,Variable annuity,Credit Card,-85
+B-26033,650,101,Life Insurance,Endowment,EMI,474
+B-26034,2863,136,Life Insurance,Endowment,UPI,32
+B-26035,4113,505,Disability,LTC,Credit Card,857
+B-26036,2150,361,Annuity,Fixed Index annuity,Credit Card,711
+B-26037,2829,305,Disability,LTC,EMI,1118
+B-26038,5727,1128,Annuity,Variable annuity,UPI,554
+B-26039,2217,83,Disability,LTD,COD,-276
+B-26040,1165,128,Disability,LTC,UPI,-777
+B-26041,4392,536,Disability,LTC,COD,1179
+B-26042,4807,757,Annuity,Variable annuity,EMI,415
+B-26043,2661,63,Annuity,Variable annuity,UPI,456
+B-26044,2497,212,Annuity,Variable annuity,EMI,779
+B-26045,2613,521,Disability,LTC,UPI,772
+B-26046,5589,620,Annuity,Fixed Index annuity,Credit Card,683
+B-26047,851,128,Annuity,Fixed Index annuity,EMI,79
+B-26048,1742,131,Disability,LTC,COD,-280
+B-26049,5993,981,Life Insurance,Endowment,EMI,-240
